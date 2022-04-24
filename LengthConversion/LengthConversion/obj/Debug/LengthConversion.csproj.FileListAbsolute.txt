@@ -1,0 +1,11 @@
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.csproj.AssemblyReference.cache
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.csproj.SuggestedBindingRedirects.cache
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.Form1.resources
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.Properties.Resources.resources
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.csproj.GenerateResource.cache
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.csproj.CoreCompileInputs.cache
+D:\EAD\LengthConversion\LengthConversion\bin\Debug\LengthConversion.exe.config
+D:\EAD\LengthConversion\LengthConversion\bin\Debug\LengthConversion.exe
+D:\EAD\LengthConversion\LengthConversion\bin\Debug\LengthConversion.pdb
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.exe
+D:\EAD\LengthConversion\LengthConversion\obj\Debug\LengthConversion.pdb
